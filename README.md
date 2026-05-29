@@ -24,7 +24,12 @@ mlops-capstone/
 │   └── data/
 │       └── README.md
 ├── docs/
-│   └── architecture.md
+│   ├── architecture.md
+│   └── screenshots/
+│       ├── eda_histograms.png         
+│       ├── mlflow_experiments.png
+│       ├── serving_endpoint_ready.png
+│       └── serving_test_200_OK.png
 ├── prod/
 │   └── README.md
 └── README.md
