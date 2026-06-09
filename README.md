@@ -16,7 +16,7 @@ The project demonstrates a complete machine learning lifecycle using Databricks 
 ## Repository Structure
 
 ```text
-mlops-capstone/
+Databricks_MLOps_Capstone/
 ├── dev/
 │   ├── notebooks/
 │   │   ├── 01_data_ingestion_eda
